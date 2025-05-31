@@ -1,0 +1,14 @@
+/Users/hassanmohamed/ThisPC/CODE/dotnet-1/bin/Debug/net9.0/dotnet-1
+/Users/hassanmohamed/ThisPC/CODE/dotnet-1/bin/Debug/net9.0/dotnet-1.deps.json
+/Users/hassanmohamed/ThisPC/CODE/dotnet-1/bin/Debug/net9.0/dotnet-1.runtimeconfig.json
+/Users/hassanmohamed/ThisPC/CODE/dotnet-1/bin/Debug/net9.0/dotnet-1.dll
+/Users/hassanmohamed/ThisPC/CODE/dotnet-1/bin/Debug/net9.0/dotnet-1.pdb
+/Users/hassanmohamed/ThisPC/CODE/dotnet-1/obj/Debug/net9.0/dotnet-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hassanmohamed/ThisPC/CODE/dotnet-1/obj/Debug/net9.0/dotnet-1.AssemblyInfoInputs.cache
+/Users/hassanmohamed/ThisPC/CODE/dotnet-1/obj/Debug/net9.0/dotnet-1.AssemblyInfo.cs
+/Users/hassanmohamed/ThisPC/CODE/dotnet-1/obj/Debug/net9.0/dotnet-1.csproj.CoreCompileInputs.cache
+/Users/hassanmohamed/ThisPC/CODE/dotnet-1/obj/Debug/net9.0/dotnet-1.dll
+/Users/hassanmohamed/ThisPC/CODE/dotnet-1/obj/Debug/net9.0/refint/dotnet-1.dll
+/Users/hassanmohamed/ThisPC/CODE/dotnet-1/obj/Debug/net9.0/dotnet-1.pdb
+/Users/hassanmohamed/ThisPC/CODE/dotnet-1/obj/Debug/net9.0/dotnet-1.genruntimeconfig.cache
+/Users/hassanmohamed/ThisPC/CODE/dotnet-1/obj/Debug/net9.0/ref/dotnet-1.dll
