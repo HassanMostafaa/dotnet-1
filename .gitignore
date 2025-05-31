@@ -1,0 +1,41 @@
+# User-specific files
+*.userprefs
+
+# Build and debug output
+bin/
+obj/
+
+# NuGet package directories
+packages/
+
+# Temporary files
+*.tmp
+*.user
+
+# User-specific files (MonoDevelop, Xamarin Studio)
+*.userprefs
+*.usertasks
+
+# Auto-generated files (built-ins)
+*.pidb
+*.pdb
+*.mdb
+
+# Visual Studio cache files
+*.vs
+
+# import and export files
+*.csv
+*.xml
+
+# NuGet
+*.nupkg
+
+# The build output of a .NET Core web application
+/dist
+
+# local development environment
+.localdev
+
+# Runtime data
+app.publish/
