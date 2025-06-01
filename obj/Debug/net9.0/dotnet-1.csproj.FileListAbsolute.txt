@@ -12,3 +12,4 @@
 /Users/hassanmohamed/ThisPC/CODE/dotnet-1/obj/Debug/net9.0/dotnet-1.pdb
 /Users/hassanmohamed/ThisPC/CODE/dotnet-1/obj/Debug/net9.0/dotnet-1.genruntimeconfig.cache
 /Users/hassanmohamed/ThisPC/CODE/dotnet-1/obj/Debug/net9.0/ref/dotnet-1.dll
+/Users/hassanmohamed/ThisPC/CODE/dotnet-1/obj/Debug/net9.0/dotnet-1.sourcelink.json
