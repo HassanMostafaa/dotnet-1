@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Text.Json.Serialization;
+using Newtonsoft.Json;
 
 namespace App
 {
@@ -28,8 +30,6 @@ namespace App
                 Console.WriteLine($"This is message number {i + 1}");
             }
 
-
-
             RealEstate realEstate = new()
             {
                 Address = "Elm street 123",
@@ -37,6 +37,20 @@ namespace App
                 SquareFootage = 1500
             };
             Console.WriteLine($"The price per square foot for the property at {realEstate.Address} is {realEstate.CalculatePricePerSquareFoot()}.");
+
+            const string dummyFilePath = "dummy.json";
+            // read json file
+            if (!File.Exists(dummyFilePath))
+            {
+                Console.WriteLine($"File {dummyFilePath} does not exist.");
+                return;
+            }
+            Dummy? dummyFileContent = JsonConvert.DeserializeObject<Dummy>(File.ReadAllText(dummyFilePath));
+            Console.WriteLine($"The content of the file {dummyFilePath} is: {dummyFileContent} with name {dummyFileContent?.Name}");
+
+
+
+
 
         }
     }

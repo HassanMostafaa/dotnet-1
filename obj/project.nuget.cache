@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FNbeBeujrJY=",
+  "dgSpecHash": "LtR2SubQdjM=",
   "success": true,
   "projectFilePath": "/Users/hassanmohamed/ThisPC/CODE/dotnet-1/dotnet-1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/hassanmohamed/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
